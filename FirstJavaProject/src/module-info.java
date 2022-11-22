@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yogee
+ *
+ */
+module FirstJavaProject {
+}
